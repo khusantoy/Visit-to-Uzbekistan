@@ -94,10 +94,12 @@ header {
     font-size: 20px;
     font-weight: bold;
     color: #146C94;
+    padding:5px;
     transition: all 0.3s;
+    border-radius: 10px;
 }
 .subcategory_link > p > a:hover {
-    background-color: dodgerblue;
+    background-color: mediumseagreen;
     color: #fff;
     padding:5px;
     border-radius: 10px;
@@ -137,4 +139,7 @@ header {
 }
 .flag {
     width: 100%;
+}
+.br-10 {
+    border-radius: 10px;
 }

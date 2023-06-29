@@ -79,6 +79,9 @@ header {
 #footer_navbar > p {
     color: gray;
 }
+/* home end*/
+
+/* about start */
 .chapter_links > div {
     width: 60%;
     margin: 0 auto;
@@ -142,4 +145,19 @@ header {
 }
 .br-10 {
     border-radius: 10px;
+}
+/* about end */
+
+/* news start */
+.date_section {
+    color: gray;
+}
+.underline_text {
+    text-decoration: none;
+}
+.underline_text:hover {
+    text-decoration: underline;
+}
+.tg_video_container {
+    text-align: center;
 }
